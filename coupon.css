@@ -1,0 +1,77 @@
+.coupon {
+    border: 5px dotted #000; /* Dotted border */
+    width: 80%;
+    border-radius: 15px; /* Rounded border */
+    margin: 0 auto; /* Center the coupon */
+    max-width: 600px;
+  }
+  
+  .container1 {
+    padding: 2px 16px;
+    background-color: #f1f1f1;
+  }
+  
+  .promo {
+    background: #ccc;
+    padding: 3px;
+  }
+  
+  .expire {
+    color: red;
+  }
+  .combo .grid-container1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 23rem;
+  }
+  
+  .combo h1{
+    font-size: 8rem;
+    margin-top: 2rem;
+    font-family: cursive;
+    text-align: center;
+    text-decoration:underline;
+  }
+.combo img{
+    height: 300px;
+    width: 100%;
+    align-items: center;
+
+}
+
+  .coupon1{
+    height: 530px;
+    width: 80%;
+    overflow: hidden;
+  }
+ 
+.container p{
+    align-items: center;
+    
+}
+a img{
+  width: 10rem;
+  height: 10rem;
+  border-radius: 20rem;
+  box-shadow: 0 0 40px rgba(0,0,0,0.8);
+}
+.combo .grid-container2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .coupon1 {
+    border: 5px dotted #000; /* Dotted border */
+    width: 80%;
+    border-radius: 15px; /* Rounded border */
+    margin: 0 auto; /* Center the coupon */
+    
+    max-width: 600px;
+  }
+  body{
+    background-image: url("coupon.png");
+    background-repeat:unset;
+  }
+.container{
+    background-color: white;
+  }
+  
