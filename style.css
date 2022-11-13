@@ -35,14 +35,16 @@
     margin-top:-5.1rem;
     margin-left: 4rem;
     color: white;
-    width: 70px;
+    width: 53px;
+    font-size:14px;
+    font-weight: bold;
     height:30px;
     border: 2px solid red;
     border-left: 3px solid transparent;
     border-top: 7px solid #f76b6a;
     border-right: 5px solid transparent;    
     text-align: center;
-    border-radius: 3%;
+    border-radius: 20%;
     background-color:#f76b6a;
 
 }
