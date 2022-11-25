@@ -11,25 +11,6 @@
 
     
 }
-
-
-
-@keyframes skew2 {
-0%{
-    transform: skewX(10deg);
-}
-50%{
-    transform: skew(0deg);
-}
-100%{
-    transform: skewY(-40deg);
-}
-
-}
-
-
-
-
 .sale-lable h6{
 
     margin-top:-5.1rem;
@@ -62,20 +43,12 @@ top: 37%;
 }
 .nav-link {
   font-size: 40px;
-  color: #fff;
+  color: greenyellow;
   text-align: center;
   animation: nav-link 1s ease-in-out infinite alternate;
 }
 
-@-webkit-keyframes nav-link {
-  5% {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #FFFFFF, 0 0 40px #FFFFFF, 0 0 50px #FFFFFF, 0 0 60px #FFFFFF, 0 0 70px #FFFFFF;
-  }
-  
-  100% {
-    text-shadow: 0 0 20px #fff, 0 0 30px #000000, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000, 0 0 80px #000000;
-  }
-}
+
 
 h1{
     font-size: 2rem;
@@ -91,9 +64,7 @@ h1:hover{
 li{
     padding: 0 1rem;
 }
-form{
-    margin-right: 2rem;
-}
+
 input:hover{
     width: 300px;
     cursor:copy;
