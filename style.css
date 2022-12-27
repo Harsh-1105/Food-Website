@@ -13,7 +13,7 @@
 }
 .sale-lable h6{
 
-    margin-top:-5.1rem;
+    margin-top:-5.0rem;
     margin-left: 4rem;
     color: white;
     width: 53px;
@@ -42,7 +42,6 @@ top: 37%;
     position: absolute;
 }
 .nav-link {
-  font-size: 40px;
   color: greenyellow;
   text-align: center;
   animation: nav-link 1s ease-in-out infinite alternate;
@@ -51,7 +50,7 @@ top: 37%;
 
 
 h1{
-    font-size: 2rem;
+    font-size: 30px;
     font-weight: 800;
     font-family: 'Poppins', sans-serif;
 
@@ -84,19 +83,12 @@ header{
 nav{
   border-radius: 20px;;
 }
-#search{
-    box-shadow: 0 0 40px rgba(0,0,0,0.8);
-}
+
 .carousel carousel-dark slide img{
     height: 100px;
     width: 100px;
 }
-#slider
-{
-    margin-left: auto;
-    margin-right: auto;
-    z-index: 0;
-}
+
 .slider{
     background-color:white;
 }
@@ -141,7 +133,8 @@ nav{
   }
   .speciality .grid-container img{
     margin-top: 0;
-    height: 400px;
+    width: 400px;
+    height:300px;
     border-radius: 4rem;
     box-shadow: 0 1rem 40px rgba(0,0,0,0.8);
     cursor: pointer;
@@ -266,7 +259,7 @@ nav{
 }
 .review1{
   margin-top: 8rem;
-  font-size: 4rem;
+  font-size: 2rem;
   align-items: center;
   
 }

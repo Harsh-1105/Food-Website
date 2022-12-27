@@ -3,11 +3,11 @@ body{
     background-size: cover;
 }
 .container{
-    height: 600px;
+    height: 400px;
     margin-top:1rem;
     margin-left: 18rem;
     margin-right: 14rem;
-    width: 1452px;
+    width: 1000px;
     box-shadow: 10px 0 40px rgba(0, 0,0,0.8);
 
 
@@ -17,7 +17,7 @@ body{
     float: left;
     width: 400px;
     border-radius: 7px;
-    height: 600px;
+    height: 400px;
 
 
 
@@ -25,14 +25,14 @@ body{
 .left h1{
     text-align: center;
     margin-bottom: 2rem;
-    margin-top: 4rem;
+    margin-top: 1rem;
     color: grey;
     font-weight: 900;
     font-family:'Courier New', Courier, monospace ;
 }
 input {
-    margin: 2rem 2rem 0rem 0rem;
-    margin-left:4rem;
+  margin-top: 1rem;
+    margin-left:5rem;
     height: 40px;
     width: 250px;
     border: none;
@@ -41,7 +41,7 @@ input {
 
 }
 button{
-    margin: 4rem;
+    margin: 2rem;
     margin-left:6rem;
     height: 50px;
     width: 200px;
@@ -58,13 +58,13 @@ button:hover{
     background-color:#234567;
 }
 img{
-    width: 1052px;
-    height: 600px;
+    width: 600px;
+    height: 400px;
 }
 .top-left {
     position: absolute;
     top: 10%;
-    left: 30%;
+    left: 42%;
     font-size: 4rem;
     font-weight: 800;
 font-family: cursive; 
@@ -78,10 +78,10 @@ color:greenyellow;
   .top-left1 {
     position: absolute;
     top: 58%;
-    left: 28%;
-    font-size: 3.5rem;
+    left: 43%;
+    font-size: 1.9rem;
     font-weight: 700;
-    color:black;
+    color:lightblue;
     font-family:Verdana, Geneva, Tahoma, sans-serif
   }
   .input{
